@@ -1,0 +1,45 @@
+{
+    "nombreApp": "Proyect",
+    "rutas": [
+        {
+            "text": "imagen 1",
+            "image": "https://images.ctfassets.net/hrltx12pl8hq/3Mz6t2p2yHYqZcIM0ic9E2/3b7037fe8871187415500fb9202608f7/Man-Stock-Photos.jpg"
+        },
+        {
+            "text": "imagen 2",
+            "image": "https://images.ctfassets.net/hrltx12pl8hq/3AnnkVqrlhrqb9hjlMBzKX/693a8e5d40b4b6c55a7673ca4c807eef/Girl-Stock?fit=fill&w=600&h=338"
+        },
+        {
+            "text": "imagen 3",
+            "image": "https://cc-prod.scene7.com/is/image/CCProdAuthor/What-is-Stock-Photography_P1_mobile?$pjpeg$&jpegSize=200&wid=720"
+        },
+        {
+            "text": "imagen 4",
+            "image": "https://t4.ftcdn.net/jpg/02/66/31/75/360_F_266317554_kr7DPOoM5Uty0YCeFU9nDZTt4a2LeMJF.jpg"
+        },
+        {
+            "text": "imagen 5",
+            "image": "https://images.ctfassets.net/hrltx12pl8hq/12wPNuS1sirO3hOes6l7Ds/9c69a51705b4a3421d65d6403ec815b1/non_cheesy_stock_photos_cover-edit.jpg"
+        },
+        {
+            "text": "imagen 6",
+            "image": "https://images.ctfassets.net/hrltx12pl8hq/5n6WsG0BhM218KBS3Sr7iW/2e0467b376e202a39afe70f0f00a9a0c/Family-Day.jpg"
+        },
+        {
+            "text": "imagen 7",
+            "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2015/03/fotos-de-stock-gratis.jpg?fit=960%2C640&quality=50&strip=all&ssl=1"
+        },
+        {
+            "text": "imagen 8",
+            "image": "https://i2.wp.com/creapills.com/wp-content/uploads/2018/03/30-photos-absurdes-banques-dimages-23.jpg?resize=800%2C536&ssl=1"
+        },
+        {
+            "text": "imagen 9",
+            "image": "https://media.gettyimages.com/id/485865905/photo/working-to-death-business-mans-skeleton-using-laptop-in-office.jpg?s=612x612&w=gi&k=20&c=w-m0FJ5CFBp5L6yXsvb0X_WwkQkrjbHRn7CA1mOoTrU="
+        },
+        {
+            "text": "imagen 10",
+            "image": "https://as2.ftcdn.net/v2/jpg/01/93/84/25/1000_F_193842588_Oe7qZ7HejoIzyXZwaIiQBY6sjuU96nPK.jpg"
+        }
+    ]
+}
