@@ -42,9 +42,15 @@ class _HomePageState extends State<HomePage> {
           borderRadius: BorderRadius.circular(30),
           child: Column(
             children: <Widget>[
-              Image(
-                image: NetworkImage(element['image']),
-              ),
+              //Image(image: NetworkImage(element['image']),),
+
+              FadeInImage(
+            placeholder: AssetImage('lib/assets/loader.gif'),
+            fadeInDuration: Duration(milliseconds: 2000),
+            height: 250,
+            fit: BoxFit.cover,
+             image:  NetworkImage(element['image'])
+             ),
               Container(
                 padding: EdgeInsets.all(10),
                 child: Text(element['text']),
